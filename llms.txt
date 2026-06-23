@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/quedate-un-segundo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Quédate un segundo, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/quedate-un-segundo/) |
+| **Get License** | [License this song: Quédate un segundo, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/quedate-un-segundo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4137)
 
 ---
 
