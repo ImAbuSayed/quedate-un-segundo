@@ -1,6 +1,6 @@
 # License
 
-**Quédate un segundo**
+**Quédate un segundo, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

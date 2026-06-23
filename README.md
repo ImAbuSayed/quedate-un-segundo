@@ -1,4 +1,4 @@
-# Quédate un segundo
+# Quédate un segundo, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Quédate un segundo |
+| **Title** | Quédate un segundo, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/quedate-un-segundo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Quédate un segundo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/quedate-un-segundo/) |
+| **Get License** | [Commercial Licensing for Quédate un segundo, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/quedate-un-segundo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche nos perdemos en la luna
+> Nena, tu mirada no se compara con ninguna
+> Quédate un segundo, deja atrás la duda
+> Tú sabes que te quiero, mi reina y mi cura
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 22, 2026 |
+| **SHA-256 Hash** | `75dcd8cb21908a27f9959b41ce57bcd930d8231a8522e578628816dd276b2ef3` |
+| **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

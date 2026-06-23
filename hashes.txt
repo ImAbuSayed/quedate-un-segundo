@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Quédate un segundo, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Quédate un segundo, Vol. 2** (quedate-un-segundo-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T10:43:42.708965 | `v1` | `75dcd8cb21908a27f9959b41ce57bcd930d8231a8522e578628816dd276b2ef3` | `e2d6f2b6762c6a5d7e7b1f10933cac865d11472daa868768960cee3de8acd689` | `2026-06-23_quedate-un-segundo-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
